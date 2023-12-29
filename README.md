@@ -1,4 +1,4 @@
-# Restaurant-Reviews-Classification-_NLP
+# Restaurant-Reviews-Classification (NLP)
 This project aims to employ Natural Language Processing (NLP) and Machine Learning to develop a classification model that predicts whether a restaurant review is positive (1) or negative (0).
 
 ## Importing Libraries
